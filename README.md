@@ -14,8 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Thao and I'm a fourth year computer science co-op student at Toronto Metropolitan University! 😄
-
-- 🔭 I'm currently working on my startup PilotASD!
-- 🌱 I'm currently learning React
+My name is Thao and I'm a new graduate computer science co-op student from Toronto Metropolitan University! 😄
 
